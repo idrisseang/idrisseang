@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6d/4f/70/6d4f70486c5b91771de63cefca1f938d.gif)]
+![MasterHead](https://i.pinimg.com/originals/6d/4f/70/6d4f70486c5b91771de63cefca1f938d.gif)
 <h1 align="center">Hello 👋, I'm Idrisse</h1>
 <h3 align="center">A Wilder 🦁 from the Wild Code School passionate about web and iOS development</h3>
 <img align="right" alt="Apple WWDC Swift Student Challenge image" width="400" src="https://photos5.appleinsider.com/gallery/41096-79503-swift-challenge-2021-xl.jpg">
